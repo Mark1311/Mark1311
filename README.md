@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark VaranVal.
-- 👀 I’m interested in Frontend Developer.
-- 🌱 I’m currently learning Reactjs, Nodejs and Express.js.
+- 👀 I’m interested in Data Analyst.
+- 🌱 I’m currently learning Power BI and Machine Larning.
 
 <!---
 Mark VaranVal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
